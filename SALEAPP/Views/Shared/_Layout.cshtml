@@ -1,0 +1,270 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - SALEAPP</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css?v=1.0" asp-append-version="true" />
+    <link rel="stylesheet" href="~/SALEAPP.styles.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/css/styles.css" asp-append-version="true" />
+    <script src="https://use.fontawesome.com/releases/v6.3.0/js/all.js" crossorigin="anonymous"></script>
+</head>
+
+<body>
+    <nav class="sb-topnav navbar navbar-expand navbar-dark bg-dark">
+        <!-- Navbar Brand-->
+        <a class="navbar-brand ps-3 fw-semibold t" href="index.html">Mistery Book</a>
+        <!-- Sidebar Toggle-->
+        <button class="btn btn-link btn-sm order-1 order-lg-0 me-4 me-lg-0" id="sidebarToggle" href="#!"><i
+                class="fas fa-bars"></i></button>
+        <!-- Navbar Search-->
+        <img class="rounded mx-1" style="height:100%" src="~/img/bookstorejpg.jpg" />
+        <div class="d-none d-md-inline-block form-inline ms-auto me-0 me-md-3 my-2 my-md-0">
+            <div class="input-group">
+
+            </div>
+        </div>
+        <!-- Navbar-->
+
+        <ul class="navbar-nav ms-auto ms-md-0 me-3 me-lg-4">
+            <li class="nav-item dropdown has-arrow flag-nav">
+                <a class="nav-link" data-bs-toggle="dropdown" href="#" role="button"
+                    aria-expanded="true">
+                    <img src="~/img/vn.png" alt="Flag" height="20">
+                    <span class="fs-6">Vietnam</span>
+                </a>
+                <div class="dropdown-menu dropdown-menu-right" data-popper-placement="bottom-start"
+                    style="position: absolute; inset: 0px auto auto 0px; margin: 0px; transform: translate3d(10.4px, 42.4px, 0px);">
+                    <a class="dropdown-item language-change-vn">
+                        <img src="~/img/vn.png" alt="Flag" height="16"> Vietnam
+                    </a>
+                    <a class="dropdown-item language-change-en">
+                        <img src="~/img/us.png" alt="Flag" height="16"> English
+                    </a>
+                </div>
+            </li>
+            <li class="nav-item dropdown ">
+                <a class="nav-link" id="navbarDropdown" href="#" role="button" data-bs-toggle="dropdown"
+                
+                    aria-expanded="false"><i class="fa-solid fa-bell"></i> <span></span> </a>
+                <ul class="dropdown-menu dropdown-menu-end ms-2" aria-labelledby="navbarDropdown">
+                    <li><a class="dropdown-item" href="#!"></a></li>
+                    <li>
+                        <hr class="dropdown-divider" />
+                    </li>
+                    <li><a class="dropdown-item" href="#!"></a></li>
+                </ul>
+            </li>
+
+            <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle" id="navbarDropdown" href="#" role="button" data-bs-toggle="dropdown"
+                    aria-expanded="false"><i class="fas fa-user fa-fw"></i> <span>admin</span> </a>
+                <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="navbarDropdown">
+                    <li><a class="dropdown-item" href="#!">Thông tin cá nhân</a></li>
+                    <li>
+                        <hr class="dropdown-divider" />
+                    </li>
+                    <li><a class="dropdown-item" href="#!">Đăng xuất</a></li>
+                </ul>
+            </li>
+        </ul>
+    </nav>
+    <div id="layoutSidenav">
+        <div id="layoutSidenav_nav">
+            <nav class="sb-sidenav accordion sb-sidenav-dark" id="sidenavAccordion">
+                <div class="sb-sidenav-menu">
+                    <div class="nav">
+                        <a class="nav-link" href="index.html">
+                            <div class="sb-nav-link-icon"><i class="fas fa-tachometer-alt"></i></div>
+                            Trang chủ
+                        </a>
+
+                        <div class="sb-sidenav-menu-heading">Quản lý bán hàng</div>
+                        <a class="nav-link collapsed" href="#" data-bs-toggle="collapse"
+                            data-bs-target="#collapseSales" aria-expanded="false" aria-controls="collapseSales">
+                            <div class="sb-nav-link-icon"><i class="fas fa-columns"></i></div>
+                            Đơn hàng
+                            <div class="sb-sidenav-collapse-arrow"><i class="fas fa-angle-down"></i></div>
+                        </a>
+                        <div class="collapse" id="collapseSales" aria-labelledby="headingOne"
+                            data-bs-parent="#sidenavAccordion">
+                            <nav class="sb-sidenav-menu-nested nav">
+                                <a class="nav-link" href="layout-static.html">Tạo đơn hàng</a>
+                                <a class="nav-link" href="layout-sidenav-light.html">Tra cứu đơn hàng</a>
+                                <a class="nav-link" href="layout-sidenav-light.html">Báo cáo-Thống kê</a>
+                            </nav>
+                        </div>
+
+                        <a class="nav-link collapsed" href="#" data-bs-toggle="collapse"
+                            data-bs-target="#collapseCustomers" aria-expanded="false" aria-controls="collapseCustomers">
+                            <div class="sb-nav-link-icon"><i class="fa-solid fa-address-card"></i></div>
+                            Khách hàng
+                            <div class="sb-sidenav-collapse-arrow"><i class="fas fa-angle-down"></i></div>
+                        </a>
+                        <div class="collapse" id="collapseCustomers" aria-labelledby="headingTwo"
+                            data-bs-parent="#sidenavAccordion">
+                            <nav class="sb-sidenav-menu-nested nav">
+                                <a class="nav-link" href="layout-static.html">Thêm khách hàng</a>
+                                <a class="nav-link" href="layout-sidenav-light.html">Tra cứu khách hàng</a>
+                                <a class="nav-link" href="layout-sidenav-light.html">Báo cáo-Thống kê</a>
+                            </nav>
+                        </div>
+
+                        <div class="sb-sidenav-menu-heading">Quản lý tài nguyên sách</div>
+                        <a class="nav-link collapsed" href="#" data-bs-toggle="collapse" data-bs-target="#collapseBooks"
+                            aria-expanded="false" aria-controls="collapseBooks">
+                            <div class="sb-nav-link-icon"><i class="fas fa-book-open"></i></div>
+                            Sách
+                            <div class="sb-sidenav-collapse-arrow"><i class="fas fa-angle-down"></i></div>
+                        </a>
+                        <div class="collapse" id="collapseBooks" aria-labelledby="headingFour"
+                            data-bs-parent="#sidenavAccordion">
+                            <nav class="sb-sidenav-menu-nested nav">
+                                <a class="nav-link" href="layout-static.html">Thêm sách</a>
+                                <a class="nav-link" href="layout-sidenav-light.html">Tra cứu sách</a>
+                                <a class="nav-link" href="layout-sidenav-light.html">Báo cáo-Thống kê</a>
+                            </nav>
+                        </div>
+                        <a class="nav-link collapsed" href="#" data-bs-toggle="collapse"
+                            data-bs-target="#collapsePublishers" aria-expanded="false"
+                            aria-controls="collapsePublishers">
+                            <div class="sb-nav-link-icon"><i class="fa-regular fa-address-book"></i></div>
+                            Nhà xuất bản
+                            <div class="sb-sidenav-collapse-arrow"><i class="fas fa-angle-down"></i></div>
+                        </a>
+                        <div class="collapse" id="collapsePublishers" aria-labelledby="headingThree"
+                            data-bs-parent="#sidenavAccordion">
+                            <nav class="sb-sidenav-menu-nested nav">
+                                <a class="nav-link" href="layout-static.html">Thêm NXB</a>
+                                <a class="nav-link" href="layout-sidenav-light.html">Tra cứu NXB</a>
+                                <a class="nav-link" href="layout-sidenav-light.html">Báo cáo-Thống kê</a>
+                            </nav>
+                        </div>
+
+
+                        <a class="nav-link collapsed" href="#" data-bs-toggle="collapse"
+                            data-bs-target="#collapseImports" aria-expanded="false" aria-controls="collapseImports">
+                            <div class="sb-nav-link-icon"><i class="fa-solid fa-receipt"></i></div>
+                            Nhập hàng
+                            <div class="sb-sidenav-collapse-arrow"><i class="fas fa-angle-down"></i></div>
+                        </a>
+                        <div class="collapse" id="collapseImports" aria-labelledby="headingFive"
+                            data-bs-parent="#sidenavAccordion">
+                            <nav class="sb-sidenav-menu-nested nav">
+                                <a class="nav-link" href="layout-static.html">Tạo đơn nhập hàng</a>
+                                <a class="nav-link" href="layout-sidenav-light.html">Tra cứu đơn nhập hàng</a>
+                                <a class="nav-link" href="layout-sidenav-light.html">Báo cáo-Thống kê</a>
+                            </nav>
+                        </div>
+
+
+                        <div class="sb-sidenav-menu-heading">Quản lý nhân viên</div>
+                        <a class="nav-link collapsed" href="#" data-bs-toggle="collapse"
+                            data-bs-target="#collapseOrders" aria-expanded="false" aria-controls="collapseOrders">
+                            <div class="sb-nav-link-icon"><i class="fa-solid fa-users-line"></i></div>
+                            Nhân viên
+                            <div class="sb-sidenav-collapse-arrow"><i class="fas fa-angle-down"></i></div>
+                        </a>
+                        <div class="collapse" id="collapseOrders" aria-labelledby="headingOne"
+                            data-bs-parent="#sidenavAccordion">
+                            <nav class="sb-sidenav-menu-nested nav">
+                                <a class="nav-link" href="layout-static.html">Thêm nhân viên</a>
+                                <a class="nav-link" href="layout-sidenav-light.html">Tra cứu nhân viên</a>
+                                <a class="nav-link" href="layout-sidenav-light.html">Báo cáo-Thống kê</a>
+                            </nav>
+                        </div>
+
+
+
+
+
+
+
+                        <a class="nav-link collapsed" href="#" data-bs-toggle="collapse" data-bs-target="#collapsePages"
+                            aria-expanded="false" aria-controls="collapsePages">
+                            <div class="sb-nav-link-icon"><i class="fas fa-book-open"></i></div>
+                            Pages
+                            <div class="sb-sidenav-collapse-arrow"><i class="fas fa-angle-down"></i></div>
+                        </a>
+                        <div class="collapse" id="collapsePages" aria-labelledby="headingTwo"
+                            data-bs-parent="#sidenavAccordion">
+                            <nav class="sb-sidenav-menu-nested nav accordion" id="sidenavAccordionPages">
+                                <a class="nav-link collapsed" href="#" data-bs-toggle="collapse"
+                                    data-bs-target="#pagesCollapseAuth" aria-expanded="false"
+                                    aria-controls="pagesCollapseAuth">
+                                    Authentication
+                                    <div class="sb-sidenav-collapse-arrow"><i class="fas fa-angle-down"></i></div>
+                                </a>
+                                <div class="collapse" id="pagesCollapseAuth" aria-labelledby="headingOne"
+                                    data-bs-parent="#sidenavAccordionPages">
+                                    <nav class="sb-sidenav-menu-nested nav">
+                                        <a class="nav-link" href="login.html">Login</a>
+                                        <a class="nav-link" href="register.html">Register</a>
+                                        <a class="nav-link" href="password.html">Forgot Password</a>
+                                    </nav>
+                                </div>
+                                <a class="nav-link collapsed" href="#" data-bs-toggle="collapse"
+                                    data-bs-target="#pagesCollapseError" aria-expanded="false"
+                                    aria-controls="pagesCollapseError">
+                                    Error
+                                    <div class="sb-sidenav-collapse-arrow"><i class="fas fa-angle-down"></i></div>
+                                </a>
+                                <div class="collapse" id="pagesCollapseError" aria-labelledby="headingOne"
+                                    data-bs-parent="#sidenavAccordionPages">
+                                    <nav class="sb-sidenav-menu-nested nav">
+                                        <a class="nav-link" href="401.html">401 Page</a>
+                                        <a class="nav-link" href="404.html">404 Page</a>
+                                        <a class="nav-link" href="500.html">500 Page</a>
+                                    </nav>
+                                </div>
+                            </nav>
+                        </div>
+                        <div class="sb-sidenav-menu-heading">Addons</div>
+                        <a class="nav-link" href="charts.html">
+                            <div class="sb-nav-link-icon"><i class="fas fa-chart-area"></i></div>
+                            Charts
+                        </a>
+                        <a class="nav-link" href="tables.html">
+                            <div class="sb-nav-link-icon"><i class="fas fa-table"></i></div>
+                            Tables
+                        </a>
+                    </div>
+                </div>
+                <div class="sb-sidenav-footer">
+                    <div class="small">Logged in as:</div>
+                    Start Bootstrap
+                </div>
+            </nav>
+        </div>
+        <div id="layoutSidenav_content" style="background-color: #F3F3F3;">
+            <main>
+                @RenderBody();
+            </main>
+            <footer class="py-4 bg-light mt-auto">
+                <div class="container-fluid px-4">
+                    <div class="d-flex align-items-center justify-content-between small">
+                        <div class="text-muted">Copyright &copy; Your Website 2023</div>
+                        <div>
+                            <a href="#">Privacy Policy</a>
+                            &middot;
+                            <a href="#">Terms &amp; Conditions</a>
+                        </div>
+                    </div>
+                </div>
+            </footer>
+        </div>
+    </div>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    <script src="~/js/scripts.js"></script>
+    <script src="~/js/site.js"></script>
+    <script src="~/js/datatables-simple-demo.js"></script>
+
+
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+
+</html>

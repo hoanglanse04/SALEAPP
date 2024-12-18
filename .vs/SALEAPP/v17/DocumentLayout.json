@@ -1,0 +1,550 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\H\u1EC7 qu\u1EA3n tr\u1ECB CSDL\\SALEAPP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DB5B0DF7-4ECB-4D75-A183-08B67D62EBD6}|SALEAPP\\SALEAPP.csproj|d:\\h\u1EC7 qu\u1EA3n tr\u1ECB csdl\\saleapp\\saleapp\\models\\chitietdonmua.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB5B0DF7-4ECB-4D75-A183-08B67D62EBD6}|SALEAPP\\SALEAPP.csproj|solutionrelative:saleapp\\models\\chitietdonmua.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB5B0DF7-4ECB-4D75-A183-08B67D62EBD6}|SALEAPP\\SALEAPP.csproj|d:\\h\u1EC7 qu\u1EA3n tr\u1ECB csdl\\saleapp\\saleapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DB5B0DF7-4ECB-4D75-A183-08B67D62EBD6}|SALEAPP\\SALEAPP.csproj|solutionrelative:saleapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB5B0DF7-4ECB-4D75-A183-08B67D62EBD6}|SALEAPP\\SALEAPP.csproj|d:\\h\u1EC7 qu\u1EA3n tr\u1ECB csdl\\saleapp\\saleapp\\views\\auth\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DB5B0DF7-4ECB-4D75-A183-08B67D62EBD6}|SALEAPP\\SALEAPP.csproj|solutionrelative:saleapp\\views\\auth\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB5B0DF7-4ECB-4D75-A183-08B67D62EBD6}|SALEAPP\\SALEAPP.csproj|d:\\h\u1EC7 qu\u1EA3n tr\u1ECB csdl\\saleapp\\saleapp\\controllers\\auth\\login\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB5B0DF7-4ECB-4D75-A183-08B67D62EBD6}|SALEAPP\\SALEAPP.csproj|solutionrelative:saleapp\\controllers\\auth\\login\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB5B0DF7-4ECB-4D75-A183-08B67D62EBD6}|SALEAPP\\SALEAPP.csproj|d:\\h\u1EC7 qu\u1EA3n tr\u1ECB csdl\\saleapp\\saleapp\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB5B0DF7-4ECB-4D75-A183-08B67D62EBD6}|SALEAPP\\SALEAPP.csproj|solutionrelative:saleapp\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB5B0DF7-4ECB-4D75-A183-08B67D62EBD6}|SALEAPP\\SALEAPP.csproj|d:\\h\u1EC7 qu\u1EA3n tr\u1ECB csdl\\saleapp\\saleapp\\models\\tacgia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB5B0DF7-4ECB-4D75-A183-08B67D62EBD6}|SALEAPP\\SALEAPP.csproj|solutionrelative:saleapp\\models\\tacgia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB5B0DF7-4ECB-4D75-A183-08B67D62EBD6}|SALEAPP\\SALEAPP.csproj|d:\\h\u1EC7 qu\u1EA3n tr\u1ECB csdl\\saleapp\\saleapp\\models\\quanlycuahangsachcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB5B0DF7-4ECB-4D75-A183-08B67D62EBD6}|SALEAPP\\SALEAPP.csproj|solutionrelative:saleapp\\models\\quanlycuahangsachcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB5B0DF7-4ECB-4D75-A183-08B67D62EBD6}|SALEAPP\\SALEAPP.csproj|d:\\h\u1EC7 qu\u1EA3n tr\u1ECB csdl\\saleapp\\saleapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DB5B0DF7-4ECB-4D75-A183-08B67D62EBD6}|SALEAPP\\SALEAPP.csproj|solutionrelative:saleapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB5B0DF7-4ECB-4D75-A183-08B67D62EBD6}|SALEAPP\\SALEAPP.csproj|d:\\h\u1EC7 qu\u1EA3n tr\u1ECB csdl\\saleapp\\saleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB5B0DF7-4ECB-4D75-A183-08B67D62EBD6}|SALEAPP\\SALEAPP.csproj|solutionrelative:saleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB5B0DF7-4ECB-4D75-A183-08B67D62EBD6}|SALEAPP\\SALEAPP.csproj|d:\\h\u1EC7 qu\u1EA3n tr\u1ECB csdl\\saleapp\\saleapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DB5B0DF7-4ECB-4D75-A183-08B67D62EBD6}|SALEAPP\\SALEAPP.csproj|solutionrelative:saleapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB5B0DF7-4ECB-4D75-A183-08B67D62EBD6}|SALEAPP\\SALEAPP.csproj|d:\\h\u1EC7 qu\u1EA3n tr\u1ECB csdl\\saleapp\\saleapp\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{DB5B0DF7-4ECB-4D75-A183-08B67D62EBD6}|SALEAPP\\SALEAPP.csproj|solutionrelative:saleapp\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB5B0DF7-4ECB-4D75-A183-08B67D62EBD6}|SALEAPP\\SALEAPP.csproj|d:\\h\u1EC7 qu\u1EA3n tr\u1ECB csdl\\saleapp\\saleapp\\wwwroot\\js\\scripts.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{DB5B0DF7-4ECB-4D75-A183-08B67D62EBD6}|SALEAPP\\SALEAPP.csproj|solutionrelative:saleapp\\wwwroot\\js\\scripts.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB5B0DF7-4ECB-4D75-A183-08B67D62EBD6}|SALEAPP\\SALEAPP.csproj|d:\\h\u1EC7 qu\u1EA3n tr\u1ECB csdl\\saleapp\\saleapp\\wwwroot\\js\\datatables-simple-demo.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{DB5B0DF7-4ECB-4D75-A183-08B67D62EBD6}|SALEAPP\\SALEAPP.csproj|solutionrelative:saleapp\\wwwroot\\js\\datatables-simple-demo.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB5B0DF7-4ECB-4D75-A183-08B67D62EBD6}|SALEAPP\\SALEAPP.csproj|d:\\h\u1EC7 qu\u1EA3n tr\u1ECB csdl\\saleapp\\saleapp\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DB5B0DF7-4ECB-4D75-A183-08B67D62EBD6}|SALEAPP\\SALEAPP.csproj|solutionrelative:saleapp\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB5B0DF7-4ECB-4D75-A183-08B67D62EBD6}|SALEAPP\\SALEAPP.csproj|d:\\h\u1EC7 qu\u1EA3n tr\u1ECB csdl\\saleapp\\saleapp\\views\\sale\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DB5B0DF7-4ECB-4D75-A183-08B67D62EBD6}|SALEAPP\\SALEAPP.csproj|solutionrelative:saleapp\\views\\sale\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB5B0DF7-4ECB-4D75-A183-08B67D62EBD6}|SALEAPP\\SALEAPP.csproj|d:\\h\u1EC7 qu\u1EA3n tr\u1ECB csdl\\saleapp\\saleapp\\controllers\\salecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB5B0DF7-4ECB-4D75-A183-08B67D62EBD6}|SALEAPP\\SALEAPP.csproj|solutionrelative:saleapp\\controllers\\salecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB5B0DF7-4ECB-4D75-A183-08B67D62EBD6}|SALEAPP\\SALEAPP.csproj|d:\\h\u1EC7 qu\u1EA3n tr\u1ECB csdl\\saleapp\\saleapp\\views\\receiptcontrollercs\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DB5B0DF7-4ECB-4D75-A183-08B67D62EBD6}|SALEAPP\\SALEAPP.csproj|solutionrelative:saleapp\\views\\receiptcontrollercs\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB5B0DF7-4ECB-4D75-A183-08B67D62EBD6}|SALEAPP\\SALEAPP.csproj|d:\\h\u1EC7 qu\u1EA3n tr\u1ECB csdl\\saleapp\\saleapp\\controllers\\receiptcontrollercs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB5B0DF7-4ECB-4D75-A183-08B67D62EBD6}|SALEAPP\\SALEAPP.csproj|solutionrelative:saleapp\\controllers\\receiptcontrollercs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB5B0DF7-4ECB-4D75-A183-08B67D62EBD6}|SALEAPP\\SALEAPP.csproj|d:\\h\u1EC7 qu\u1EA3n tr\u1ECB csdl\\saleapp\\saleapp\\views\\publisher\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DB5B0DF7-4ECB-4D75-A183-08B67D62EBD6}|SALEAPP\\SALEAPP.csproj|solutionrelative:saleapp\\views\\publisher\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB5B0DF7-4ECB-4D75-A183-08B67D62EBD6}|SALEAPP\\SALEAPP.csproj|d:\\h\u1EC7 qu\u1EA3n tr\u1ECB csdl\\saleapp\\saleapp\\controllers\\publishercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB5B0DF7-4ECB-4D75-A183-08B67D62EBD6}|SALEAPP\\SALEAPP.csproj|solutionrelative:saleapp\\controllers\\publishercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB5B0DF7-4ECB-4D75-A183-08B67D62EBD6}|SALEAPP\\SALEAPP.csproj|d:\\h\u1EC7 qu\u1EA3n tr\u1ECB csdl\\saleapp\\saleapp\\views\\employeecontrollercs\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DB5B0DF7-4ECB-4D75-A183-08B67D62EBD6}|SALEAPP\\SALEAPP.csproj|solutionrelative:saleapp\\views\\employeecontrollercs\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB5B0DF7-4ECB-4D75-A183-08B67D62EBD6}|SALEAPP\\SALEAPP.csproj|d:\\h\u1EC7 qu\u1EA3n tr\u1ECB csdl\\saleapp\\saleapp\\controllers\\employeecontrollercs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB5B0DF7-4ECB-4D75-A183-08B67D62EBD6}|SALEAPP\\SALEAPP.csproj|solutionrelative:saleapp\\controllers\\employeecontrollercs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB5B0DF7-4ECB-4D75-A183-08B67D62EBD6}|SALEAPP\\SALEAPP.csproj|d:\\h\u1EC7 qu\u1EA3n tr\u1ECB csdl\\saleapp\\saleapp\\views\\customer\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DB5B0DF7-4ECB-4D75-A183-08B67D62EBD6}|SALEAPP\\SALEAPP.csproj|solutionrelative:saleapp\\views\\customer\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB5B0DF7-4ECB-4D75-A183-08B67D62EBD6}|SALEAPP\\SALEAPP.csproj|d:\\h\u1EC7 qu\u1EA3n tr\u1ECB csdl\\saleapp\\saleapp\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB5B0DF7-4ECB-4D75-A183-08B67D62EBD6}|SALEAPP\\SALEAPP.csproj|solutionrelative:saleapp\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB5B0DF7-4ECB-4D75-A183-08B67D62EBD6}|SALEAPP\\SALEAPP.csproj|d:\\h\u1EC7 qu\u1EA3n tr\u1ECB csdl\\saleapp\\saleapp\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB5B0DF7-4ECB-4D75-A183-08B67D62EBD6}|SALEAPP\\SALEAPP.csproj|solutionrelative:saleapp\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB5B0DF7-4ECB-4D75-A183-08B67D62EBD6}|SALEAPP\\SALEAPP.csproj|d:\\h\u1EC7 qu\u1EA3n tr\u1ECB csdl\\saleapp\\saleapp\\saleapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DB5B0DF7-4ECB-4D75-A183-08B67D62EBD6}|SALEAPP\\SALEAPP.csproj|solutionrelative:saleapp\\saleapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB5B0DF7-4ECB-4D75-A183-08B67D62EBD6}|SALEAPP\\SALEAPP.csproj|d:\\h\u1EC7 qu\u1EA3n tr\u1ECB csdl\\saleapp\\saleapp\\saleapp.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{DB5B0DF7-4ECB-4D75-A183-08B67D62EBD6}|SALEAPP\\SALEAPP.csproj|solutionrelative:saleapp\\saleapp.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB5B0DF7-4ECB-4D75-A183-08B67D62EBD6}|SALEAPP\\SALEAPP.csproj|d:\\h\u1EC7 qu\u1EA3n tr\u1ECB csdl\\saleapp\\saleapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB5B0DF7-4ECB-4D75-A183-08B67D62EBD6}|SALEAPP\\SALEAPP.csproj|solutionrelative:saleapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB5B0DF7-4ECB-4D75-A183-08B67D62EBD6}|SALEAPP\\SALEAPP.csproj|d:\\h\u1EC7 qu\u1EA3n tr\u1ECB csdl\\saleapp\\saleapp\\models\\nhaxuatban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB5B0DF7-4ECB-4D75-A183-08B67D62EBD6}|SALEAPP\\SALEAPP.csproj|solutionrelative:saleapp\\models\\nhaxuatban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 328,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ChiTietDonMua.cs",
+              "DocumentMoniker": "D:\\H\u1EC7 qu\u1EA3n tr\u1ECB CSDL\\SALEAPP\\SALEAPP\\Models\\ChiTietDonMua.cs",
+              "RelativeDocumentMoniker": "SALEAPP\\Models\\ChiTietDonMua.cs",
+              "ToolTip": "D:\\H\u1EC7 qu\u1EA3n tr\u1ECB CSDL\\SALEAPP\\SALEAPP\\Models\\ChiTietDonMua.cs",
+              "RelativeToolTip": "SALEAPP\\Models\\ChiTietDonMua.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T05:05:30.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\H\u1EC7 qu\u1EA3n tr\u1ECB CSDL\\SALEAPP\\SALEAPP\\Views\\Auth\\Login\\Index.cshtml",
+              "RelativeDocumentMoniker": "SALEAPP\\Views\\Auth\\Login\\Index.cshtml",
+              "ToolTip": "D:\\H\u1EC7 qu\u1EA3n tr\u1ECB CSDL\\SALEAPP\\SALEAPP\\Views\\Auth\\Login\\Index.cshtml",
+              "RelativeToolTip": "SALEAPP\\Views\\Auth\\Login\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-18T02:40:39.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "D:\\H\u1EC7 qu\u1EA3n tr\u1ECB CSDL\\SALEAPP\\SALEAPP\\Controllers\\Auth\\Login\\LoginController.cs",
+              "RelativeDocumentMoniker": "SALEAPP\\Controllers\\Auth\\Login\\LoginController.cs",
+              "ToolTip": "D:\\H\u1EC7 qu\u1EA3n tr\u1ECB CSDL\\SALEAPP\\SALEAPP\\Controllers\\Auth\\Login\\LoginController.cs",
+              "RelativeToolTip": "SALEAPP\\Controllers\\Auth\\Login\\LoginController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T10:40:03.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\H\u1EC7 qu\u1EA3n tr\u1ECB CSDL\\SALEAPP\\SALEAPP\\Models\\User.cs",
+              "RelativeDocumentMoniker": "SALEAPP\\Models\\User.cs",
+              "ToolTip": "D:\\H\u1EC7 qu\u1EA3n tr\u1ECB CSDL\\SALEAPP\\SALEAPP\\Models\\User.cs",
+              "RelativeToolTip": "SALEAPP\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T10:35:14.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TacGia.cs",
+              "DocumentMoniker": "D:\\H\u1EC7 qu\u1EA3n tr\u1ECB CSDL\\SALEAPP\\SALEAPP\\Models\\TacGia.cs",
+              "RelativeDocumentMoniker": "SALEAPP\\Models\\TacGia.cs",
+              "ToolTip": "D:\\H\u1EC7 qu\u1EA3n tr\u1ECB CSDL\\SALEAPP\\SALEAPP\\Models\\TacGia.cs",
+              "RelativeToolTip": "SALEAPP\\Models\\TacGia.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T16:13:10.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\H\u1EC7 qu\u1EA3n tr\u1ECB CSDL\\SALEAPP\\SALEAPP\\Views\\EmployeeControllercs\\Index.cshtml",
+              "RelativeDocumentMoniker": "SALEAPP\\Views\\EmployeeControllercs\\Index.cshtml",
+              "ToolTip": "D:\\H\u1EC7 qu\u1EA3n tr\u1ECB CSDL\\SALEAPP\\SALEAPP\\Views\\EmployeeControllercs\\Index.cshtml",
+              "RelativeToolTip": "SALEAPP\\Views\\EmployeeControllercs\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-16T10:49:11.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ReceiptControllercs.cs",
+              "DocumentMoniker": "D:\\H\u1EC7 qu\u1EA3n tr\u1ECB CSDL\\SALEAPP\\SALEAPP\\Controllers\\ReceiptControllercs.cs",
+              "RelativeDocumentMoniker": "SALEAPP\\Controllers\\ReceiptControllercs.cs",
+              "ToolTip": "D:\\H\u1EC7 qu\u1EA3n tr\u1ECB CSDL\\SALEAPP\\SALEAPP\\Controllers\\ReceiptControllercs.cs",
+              "RelativeToolTip": "SALEAPP\\Controllers\\ReceiptControllercs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T09:59:53.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\H\u1EC7 qu\u1EA3n tr\u1ECB CSDL\\SALEAPP\\SALEAPP\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "SALEAPP\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\H\u1EC7 qu\u1EA3n tr\u1ECB CSDL\\SALEAPP\\SALEAPP\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "SALEAPP\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAJIAAAAAAAAAAAD4v6QAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-13T16:09:31.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "EmployeeControllercs.cs",
+              "DocumentMoniker": "D:\\H\u1EC7 qu\u1EA3n tr\u1ECB CSDL\\SALEAPP\\SALEAPP\\Controllers\\EmployeeControllercs.cs",
+              "RelativeDocumentMoniker": "SALEAPP\\Controllers\\EmployeeControllercs.cs",
+              "ToolTip": "D:\\H\u1EC7 qu\u1EA3n tr\u1ECB CSDL\\SALEAPP\\SALEAPP\\Controllers\\EmployeeControllercs.cs",
+              "RelativeToolTip": "SALEAPP\\Controllers\\EmployeeControllercs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T09:57:59.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\H\u1EC7 qu\u1EA3n tr\u1ECB CSDL\\SALEAPP\\SALEAPP\\appsettings.json",
+              "RelativeDocumentMoniker": "SALEAPP\\appsettings.json",
+              "ToolTip": "D:\\H\u1EC7 qu\u1EA3n tr\u1ECB CSDL\\SALEAPP\\SALEAPP\\appsettings.json",
+              "RelativeToolTip": "SALEAPP\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-13T16:53:55.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\H\u1EC7 qu\u1EA3n tr\u1ECB CSDL\\SALEAPP\\SALEAPP\\Program.cs",
+              "RelativeDocumentMoniker": "SALEAPP\\Program.cs",
+              "ToolTip": "D:\\H\u1EC7 qu\u1EA3n tr\u1ECB CSDL\\SALEAPP\\SALEAPP\\Program.cs",
+              "RelativeToolTip": "SALEAPP\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T09:41:24.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "QuanLyCuaHangSachContext.cs",
+              "DocumentMoniker": "D:\\H\u1EC7 qu\u1EA3n tr\u1ECB CSDL\\SALEAPP\\SALEAPP\\Models\\QuanLyCuaHangSachContext.cs",
+              "RelativeDocumentMoniker": "SALEAPP\\Models\\QuanLyCuaHangSachContext.cs",
+              "ToolTip": "D:\\H\u1EC7 qu\u1EA3n tr\u1ECB CSDL\\SALEAPP\\SALEAPP\\Models\\QuanLyCuaHangSachContext.cs",
+              "RelativeToolTip": "SALEAPP\\Models\\QuanLyCuaHangSachContext.cs",
+              "ViewState": "AgIAAPIAAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T16:56:39.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "D:\\H\u1EC7 qu\u1EA3n tr\u1ECB CSDL\\SALEAPP\\SALEAPP\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "SALEAPP\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "D:\\H\u1EC7 qu\u1EA3n tr\u1ECB CSDL\\SALEAPP\\SALEAPP\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "SALEAPP\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-16T13:51:13.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "datatables-simple-demo.js",
+              "DocumentMoniker": "D:\\H\u1EC7 qu\u1EA3n tr\u1ECB CSDL\\SALEAPP\\SALEAPP\\wwwroot\\js\\datatables-simple-demo.js",
+              "RelativeDocumentMoniker": "SALEAPP\\wwwroot\\js\\datatables-simple-demo.js",
+              "ToolTip": "D:\\H\u1EC7 qu\u1EA3n tr\u1ECB CSDL\\SALEAPP\\SALEAPP\\wwwroot\\js\\datatables-simple-demo.js",
+              "RelativeToolTip": "SALEAPP\\wwwroot\\js\\datatables-simple-demo.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-12-16T14:01:45.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "scripts.js",
+              "DocumentMoniker": "D:\\H\u1EC7 qu\u1EA3n tr\u1ECB CSDL\\SALEAPP\\SALEAPP\\wwwroot\\js\\scripts.js",
+              "RelativeDocumentMoniker": "SALEAPP\\wwwroot\\js\\scripts.js",
+              "ToolTip": "D:\\H\u1EC7 qu\u1EA3n tr\u1ECB CSDL\\SALEAPP\\SALEAPP\\wwwroot\\js\\scripts.js",
+              "RelativeToolTip": "SALEAPP\\wwwroot\\js\\scripts.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-12-16T14:01:52.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "site.js",
+              "DocumentMoniker": "D:\\H\u1EC7 qu\u1EA3n tr\u1ECB CSDL\\SALEAPP\\SALEAPP\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "SALEAPP\\wwwroot\\js\\site.js",
+              "ToolTip": "D:\\H\u1EC7 qu\u1EA3n tr\u1ECB CSDL\\SALEAPP\\SALEAPP\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "SALEAPP\\wwwroot\\js\\site.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-12-16T14:01:53.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\H\u1EC7 qu\u1EA3n tr\u1ECB CSDL\\SALEAPP\\SALEAPP\\Views\\Customer\\Index.cshtml",
+              "RelativeDocumentMoniker": "SALEAPP\\Views\\Customer\\Index.cshtml",
+              "ToolTip": "D:\\H\u1EC7 qu\u1EA3n tr\u1ECB CSDL\\SALEAPP\\SALEAPP\\Views\\Customer\\Index.cshtml",
+              "RelativeToolTip": "SALEAPP\\Views\\Customer\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-16T10:48:58.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\H\u1EC7 qu\u1EA3n tr\u1ECB CSDL\\SALEAPP\\SALEAPP\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "SALEAPP\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\H\u1EC7 qu\u1EA3n tr\u1ECB CSDL\\SALEAPP\\SALEAPP\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "SALEAPP\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-10T16:58:49.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\H\u1EC7 qu\u1EA3n tr\u1ECB CSDL\\SALEAPP\\SALEAPP\\Views\\PubLisher\\Index.cshtml",
+              "RelativeDocumentMoniker": "SALEAPP\\Views\\PubLisher\\Index.cshtml",
+              "ToolTip": "D:\\H\u1EC7 qu\u1EA3n tr\u1ECB CSDL\\SALEAPP\\SALEAPP\\Views\\PubLisher\\Index.cshtml",
+              "RelativeToolTip": "SALEAPP\\Views\\PubLisher\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-16T10:49:27.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SaleController.cs",
+              "DocumentMoniker": "D:\\H\u1EC7 qu\u1EA3n tr\u1ECB CSDL\\SALEAPP\\SALEAPP\\Controllers\\SaleController.cs",
+              "RelativeDocumentMoniker": "SALEAPP\\Controllers\\SaleController.cs",
+              "ToolTip": "D:\\H\u1EC7 qu\u1EA3n tr\u1ECB CSDL\\SALEAPP\\SALEAPP\\Controllers\\SaleController.cs",
+              "RelativeToolTip": "SALEAPP\\Controllers\\SaleController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T09:58:22.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "D:\\H\u1EC7 qu\u1EA3n tr\u1ECB CSDL\\SALEAPP\\SALEAPP\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "SALEAPP\\Controllers\\CustomerController.cs",
+              "ToolTip": "D:\\H\u1EC7 qu\u1EA3n tr\u1ECB CSDL\\SALEAPP\\SALEAPP\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "SALEAPP\\Controllers\\CustomerController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T09:56:32.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\H\u1EC7 qu\u1EA3n tr\u1ECB CSDL\\SALEAPP\\SALEAPP\\Views\\ReceiptControllercs\\Index.cshtml",
+              "RelativeDocumentMoniker": "SALEAPP\\Views\\ReceiptControllercs\\Index.cshtml",
+              "ToolTip": "D:\\H\u1EC7 qu\u1EA3n tr\u1ECB CSDL\\SALEAPP\\SALEAPP\\Views\\ReceiptControllercs\\Index.cshtml",
+              "RelativeToolTip": "SALEAPP\\Views\\ReceiptControllercs\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-16T10:51:36.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\H\u1EC7 qu\u1EA3n tr\u1ECB CSDL\\SALEAPP\\SALEAPP\\Views\\Sale\\Index.cshtml",
+              "RelativeDocumentMoniker": "SALEAPP\\Views\\Sale\\Index.cshtml",
+              "ToolTip": "D:\\H\u1EC7 qu\u1EA3n tr\u1ECB CSDL\\SALEAPP\\SALEAPP\\Views\\Sale\\Index.cshtml",
+              "RelativeToolTip": "SALEAPP\\Views\\Sale\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-16T10:51:51.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "PubLisherController.cs",
+              "DocumentMoniker": "D:\\H\u1EC7 qu\u1EA3n tr\u1ECB CSDL\\SALEAPP\\SALEAPP\\Controllers\\PubLisherController.cs",
+              "RelativeDocumentMoniker": "SALEAPP\\Controllers\\PubLisherController.cs",
+              "ToolTip": "D:\\H\u1EC7 qu\u1EA3n tr\u1ECB CSDL\\SALEAPP\\SALEAPP\\Controllers\\PubLisherController.cs",
+              "RelativeToolTip": "SALEAPP\\Controllers\\PubLisherController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T09:53:17.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "D:\\H\u1EC7 qu\u1EA3n tr\u1ECB CSDL\\SALEAPP\\SALEAPP\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "SALEAPP\\Controllers\\BookController.cs",
+              "ToolTip": "D:\\H\u1EC7 qu\u1EA3n tr\u1ECB CSDL\\SALEAPP\\SALEAPP\\Controllers\\BookController.cs",
+              "RelativeToolTip": "SALEAPP\\Controllers\\BookController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T09:53:44.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "SALEAPP",
+              "DocumentMoniker": "D:\\H\u1EC7 qu\u1EA3n tr\u1ECB CSDL\\SALEAPP\\SALEAPP\\SALEAPP.csproj",
+              "RelativeDocumentMoniker": "SALEAPP\\SALEAPP.csproj",
+              "ToolTip": "D:\\H\u1EC7 qu\u1EA3n tr\u1ECB CSDL\\SALEAPP\\SALEAPP\\SALEAPP.csproj",
+              "RelativeToolTip": "SALEAPP\\SALEAPP.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-13T16:52:50.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "NhaXuatBan.cs",
+              "DocumentMoniker": "D:\\H\u1EC7 qu\u1EA3n tr\u1ECB CSDL\\SALEAPP\\SALEAPP\\Models\\NhaXuatBan.cs",
+              "RelativeDocumentMoniker": "SALEAPP\\Models\\NhaXuatBan.cs",
+              "ToolTip": "D:\\H\u1EC7 qu\u1EA3n tr\u1ECB CSDL\\SALEAPP\\SALEAPP\\Models\\NhaXuatBan.cs",
+              "RelativeToolTip": "SALEAPP\\Models\\NhaXuatBan.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T16:39:49.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "SALEAPP.csproj",
+              "DocumentMoniker": "D:\\H\u1EC7 qu\u1EA3n tr\u1ECB CSDL\\SALEAPP\\SALEAPP\\SALEAPP.csproj",
+              "RelativeDocumentMoniker": "SALEAPP\\SALEAPP.csproj",
+              "ToolTip": "D:\\H\u1EC7 qu\u1EA3n tr\u1ECB CSDL\\SALEAPP\\SALEAPP\\SALEAPP.csproj",
+              "RelativeToolTip": "SALEAPP\\SALEAPP.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-16T09:46:23.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\H\u1EC7 qu\u1EA3n tr\u1ECB CSDL\\SALEAPP\\SALEAPP\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "SALEAPP\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\H\u1EC7 qu\u1EA3n tr\u1ECB CSDL\\SALEAPP\\SALEAPP\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "SALEAPP\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAnwBQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T16:56:57.347Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 272,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
